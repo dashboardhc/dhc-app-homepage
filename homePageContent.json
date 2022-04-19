@@ -1,0 +1,5 @@
+{
+  "error": "If this has text, show a bar",
+  "warning": "if this has text show a different color bar, azure is running slow",
+  "homePageMessage": "this goes on the home message <b>can be html</b>"
+}
